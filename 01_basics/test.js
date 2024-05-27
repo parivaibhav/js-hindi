@@ -1,5 +1,5 @@
-console.log('hbbhb'); 
-let age =10;
-if(age == 10){
- console.log("age is 10")
-}
+const accountId = 144445553 // const values can't change 
+let accoutEmail = "vaibhavgoswami055@gmail.com"
+var accountPassword = "282828211"
+accountCity = "Ahemdabad"
+console.table([accountId, accountPassword, accoutEmail, accountCity])
