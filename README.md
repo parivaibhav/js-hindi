@@ -1,2 +1,2 @@
 # js-hindi
-this is javascript repositery
+this is javascript repositery and i learning now begining to advance.
